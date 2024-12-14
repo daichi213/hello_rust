@@ -13,6 +13,11 @@ source $HOME/.cargo/env
 
 - [参考ページ](https://qiita.com/rfukudome/items/0586abc50dad36497bd0)
 
+# Learn Rust
+
+- [Rust入門](https://zenn.dev/mebiusbox/books/22d4c1ed9b0003)
+  - [Rustツアー](https://tourofrust.com/00_ja.html)：入門編と概要把握に役立つコンテンツ
+
 # Other
 
 - [【Rust】ネットワークプログラミング　ICMP編](https://euniclus.com/article/rust-routescan/)
